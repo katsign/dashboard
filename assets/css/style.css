@@ -82,10 +82,8 @@ border-color: thistle;
 }
 
 /* Media Queries */ 
-
-@media (max-width: 656px) {
-    .journal {
-        width: 100%;
-        margin: .25rem;
+  @media (max-width: 690px) {
+    .d-flex {
+      flex-direction: column;
     }
-}
+  }
