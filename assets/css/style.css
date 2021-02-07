@@ -24,6 +24,24 @@ a:hover {
     color: plum;
 }
 
+/* Circle Styling Blob*/
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 2rem;
+}
+#weather {
+    background-color: linen;
+}
+#planner {
+    background-color: antiquewhite;
+}
+#btnWeather, #btnPlanner {
+    margin-top: 8.5rem;
+    margin-left: 6.5rem;
+}
+
 /* Overwriting Jumbotron Blob */
 .jumbotron {
     background-color: linen;
